@@ -1,0 +1,15 @@
+string palavra() {
+string texto = "texto";
+float x = 10.2;
+char letra = 'a';
+}
+
+void chamada() {
+palavra();
+}
+
+int main () {
+int y = 10;
+bool teste = true;
+return 0;
+}

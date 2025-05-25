@@ -1,0 +1,8 @@
+PROGRAMA "Label":
+INICIO
+a = 4
+B = 2
+c = 2
+x = (a * b) / c
+RES = (a * b) / c
+FIM
